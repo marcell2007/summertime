@@ -1,0 +1,40 @@
+body {
+    background: url('wp11257920-summer-time-rendering-wallpapers.jpg');
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+.cim
+    {
+        background-color: rgb(73, 239, 251);
+        backdrop-filter: blur(5px);
+    }
+
+h2 {
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+
+p {
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+}
+.story {
+    background-color: rgb(255, 235, 210, 0.6);
+    border-radius: 10px;
+    opacity: 100px;
+}
+.chrs {
+    background-color: rgb(255, 235, 210, 0.6);
+    border-radius: 10px;
+    opacity: 100px;
+}
