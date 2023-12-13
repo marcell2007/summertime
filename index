@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Summertime Rendering</title>
+    <link rel="stylesheet" href="summertimerender.css">
+
+</head>
+<body>
+    <div class="cim"><h1>Summer Time Rendering: Anime ajánló</h1></div>
+    <h2>A történet dióhéjban:</h2>
+    <div class="story">
+        <p>Shinpei egy jószívű tinédzser, aki szülei halála után a Kofune családnál élt Hitogashima szigetén,<br> de hamarosan elköltözött Tokióba, hogy független legyen.<br> Az Ushio temetésén való részvétel egy sötét titkokkal teli ösvényre vezeti,<br> ahol felfedezi képességét, hogy halálával időhurkot hoz létre.</p><br>
+    </div>
+
+    
+    <div class="chrs"><p>Szereplők:<br> - Shinpei Ajiro<br> - Hizuru Minakata<br> - Ushio Kofune<br> - Haine(Fő isten)<br> - Mio Kofune<br> - Ryunosuke Minakata<br> - Shiori Kobayakawa<br> - Tetsu Totsumura<br> - Ginjiro Nezu<br></p></div>
+</body>
+</html>
